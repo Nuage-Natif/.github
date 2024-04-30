@@ -1,8 +1,8 @@
-<center>
+<p align="center">
     <img src="nuna.svg" alt="Nuage Natif logo" width="200">  
-</center>
+</p>
 
-# Nuage Natif - Overview
+# Overview
 
 Nuage Natif (Nuna) is a personal project aiming at improving myself is the cloud natives technologies like Docker, Kubernetes, CI/CD, etc.
 
@@ -21,7 +21,7 @@ sequenceDiagram
     Frontend->>User: Show transformed message
 ```
 
-## Technologies
+# Technologies
 
 | Name                  | Version | Description                                       |
 | :-------------------- | :------ | :------------------------------------------------ |
