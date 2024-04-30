@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="nuna.svg" alt="Nuage Natif logo" width="200">  
+    <img src="https://raw.githubusercontent.com/Nuage-Natif/.github/main/profile/nuna.svg" alt="Nuage Natif logo" width="200">  
 </p>
 
 # Overview
